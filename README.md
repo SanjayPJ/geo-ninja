@@ -1,5 +1,14 @@
 # geo-ninja
 
+## Screenshots
+
+![1](screen/1.png)
+![2](screen/2.png)
+
+## Live Website
+
+[https://geo-ninja-76e39.firebaseapp.com](https://geo-ninja-76e39.firebaseapp.com)
+
 ## Project setup
 ```
 npm install
